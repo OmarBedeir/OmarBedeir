@@ -15,9 +15,9 @@
 <br><br>
 
 
-- :trophy: 2x `ACPC` Finalist.
+
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at .
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
