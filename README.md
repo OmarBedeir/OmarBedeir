@@ -105,5 +105,24 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=OmarBedeir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+
+
+###
+
+###
+
+<br clear="both">
+
+
+###
 
 	
