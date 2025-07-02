@@ -34,7 +34,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	
-	<a href="https://www.linkedin.com/in/omar-ali-bedier/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+[![Omar Bedier - LinkedIn](https://img.shields.io/badge/Omar%20Bedier-LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ali-bedier/)
+
 
 </p>
 
